@@ -14,7 +14,7 @@
 <br> 
 <br> 
 <a href="CRITIQUE PAPER.docx"> 
- Click here to view CRITIQUE PAPER Document 
+ Click here to download CRITIQUE PAPER Document 
 </a>
 </body> 
 </html> 
