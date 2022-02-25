@@ -6,7 +6,12 @@
 
 <body background="cae bg.png"> 
  <center>
+  <br>
+  <br> 
+  <br> 
+  <br> 
  <h1> <font color="white" face="Calibri"> 3RD QTR: MAJOR PT CRITIQUE PAPER </h1></font> 
+<br> 
 <br> 
 <a href="CRITIQUE PAPER.docx"> 
  Click here to view CRITIQUE PAPER Document 
